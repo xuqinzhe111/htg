@@ -1,0 +1,51 @@
+{
+    "products": [
+      {
+        "name": "Wireless Headphones",
+        "description": "High-quality noise-cancelling wireless headphones",
+        "price": 199.99,
+        "category": "Electronics",
+        "imageUrls": ["https://example.com/images/headphones.jpg"]
+      },
+      {
+        "name": "Smartwatch",
+        "description": "Water-resistant smartwatch with various health tracking features",
+        "price": 149.99,
+        "category": "Wearables",
+        "imageUrls": ["https://example.com/images/smartwatch.jpg"]
+      },
+      {
+        "name": "Coffee Maker",
+        "description": "Programmable coffee maker with 12-cup capacity",
+        "price": 89.99,
+        "category": "Home Appliances",
+        "imageUrls": ["https://example.com/images/coffeemaker.jpg"]
+      }
+    ],
+    "categories": [
+      { "name": "Electronics" },
+      { "name": "Wearables" },
+      { "name": "Home Appliances" }
+    ],
+    "storeLocations": [
+      {
+        "name": "Downtown Store",
+        "address": "123 Main Street, Cityville",
+        "latitude": 40.712776,
+        "longitude": -74.005974
+      },
+      {
+        "name": "Mall Outlet",
+        "address": "456 Shopping Blvd, Malltown",
+        "latitude": 34.052235,
+        "longitude": -118.243683
+      },
+      {
+        "name": "Suburban Shop",
+        "address": "789 Suburb Lane, Townsville",
+        "latitude": 41.878113,
+        "longitude": -87.629799
+      }
+    ]
+  }
+  
